@@ -14,6 +14,11 @@
 
 **[👉 Try the live app →](https://customer-churn-ml-project-26igffygpgvonfupy3kh9d.streamlit.app/)**
 
+## 📸 Screenshots
+
+![Stay Prediction](assets/churn_stay.png)
+![Churn Prediction](assets/churn_predict.png)
+
 Enter customer details and get an instant churn prediction with probability score.
 
 ---
